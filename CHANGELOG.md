@@ -1,8 +1,30 @@
 # CHANGELOG
 
-## [Unreleased]
+## Unreleased
 
-_(add items here for easier creation of next log entry)_
+## 1.0.1 - 2019-10-31
+
+### Fixes
+
+- [Pull request #66: Fix preselected values causing undefined errors](https://github.com/alphagov/govuk-country-and-territory-autocomplete/pull/66)
+
+## 1.0.0 - 2019-10-07
+
+### Breaking changes
+
+- [Pull request #60: Upgrade to `accessible-autocomplete@2.0.0`](https://github.com/alphagov/govuk-country-and-territory-autocomplete/pull/60)
+- [Pull request #63: Upgrade to `accessible-autocomplete@2.0.1`](https://github.com/alphagov/govuk-country-and-territory-autocomplete/pull/63)
+
+See notes on https://github.com/alphagov/accessible-autocomplete/releases/tag/v2.0.0 due to breaking changes (now using GOV.UK Design System WCAG 2.1 compatible CSS)
+
+## 0.5.3 - 2019-07-29
+
+- [Pull request #56: Updates country Burma to Myanmar (Burma)](https://github.com/alphagov/govuk-country-and-territory-autocomplete/pull/56)
+
+## 0.5.2 - 2019-03-18
+
+- Pull in latest register data.
+- update dependencies
 
 ## 0.5.1 - 2018-11-14
 
